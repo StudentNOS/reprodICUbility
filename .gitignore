@@ -1,0 +1,6 @@
+.env # Store confidential credentials here
+*.csv 
+*.json
+*.png
+*.xls
+*.jpeg
