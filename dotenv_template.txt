@@ -1,0 +1,11 @@
+# Please store your confidential data in the .env file and do never share it with anyone
+# The .env file is located in the .gitignore file to prevent it from being published
+# NEVER remove the .env file from the .gitignore
+# 
+#
+# Copy this template, create a local .env file and fill out your data there
+
+# To do - fill out the data our participants need
+IMI_access = YOURDATAHERE
+APIKEY = YOURDATAHERE
+
