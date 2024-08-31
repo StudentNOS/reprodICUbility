@@ -1,4 +1,4 @@
-#_Variable Name Glossary_
+##_Variable Name Glossary_
 
 - Make sure to rename variable everywhere -> description etc
 - inclusion_ / exclusion_
