@@ -1,6 +1,76 @@
-.env # Store confidential credentials here
-*.csv 
-*.json
-*.png
-*.xls
-*.jpeg
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.envrc
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.venv.bak/
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+*.wheel
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Jupyter Notebook metadata and other temporary files
+*.ipynb-meta
+*.ipynb.lock
+*.ipynb.old
+
+# Jupyter Notebook autosave files
+*.ipynb-autosave
+
+# IPython history
+.ipython/
+.history
+
+# VS Code
+.vscode/
+
+# virtual environments
+.Python
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.flaskenv
+.pyenv
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
